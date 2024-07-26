@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StreamBenchmarkRendimiento" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-24T20:57:56" hostname="DESKTOP-48R14AB" time="3.296">
+  <properties/>
+  <testcase name="rendimientoStream()" classname="StreamBenchmarkRendimiento" time="1.259"/>
+  <testcase name="rendimientoParalelo()" classname="StreamBenchmarkRendimiento" time="2.036"/>
+  <system-out><![CDATA[Tiempo secuencial: 256 ms
+Tiempo paralelo: 935 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
