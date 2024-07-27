@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StreamBenchmarkRendimiento" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-24T20:57:56" hostname="DESKTOP-48R14AB" time="3.296">
+<testsuite name="StreamBenchmarkRendimiento" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-27T20:15:52" hostname="DESKTOP-48R14AB" time="2.992">
   <properties/>
-  <testcase name="rendimientoStream()" classname="StreamBenchmarkRendimiento" time="1.259"/>
-  <testcase name="rendimientoParalelo()" classname="StreamBenchmarkRendimiento" time="2.036"/>
-  <system-out><![CDATA[Tiempo secuencial: 256 ms
-Tiempo paralelo: 935 ms
+  <testcase name="rendimientoStream()" classname="StreamBenchmarkRendimiento" time="1.378"/>
+  <testcase name="rendimientoParalelo()" classname="StreamBenchmarkRendimiento" time="1.61"/>
+  <system-out><![CDATA[Tiempo secuencial: 290 ms
+Tiempo paralelo: 487 ms
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
